@@ -14,3 +14,4 @@ def hello_t(array)
   end
 end
 # call your method here!
+hello(["Tom", "Mary"])
